@@ -1,4 +1,4 @@
-# Computer Vision Assisted Robotic Hand By Mudith D Shetty
+# Computer Vision Assisted Robotic Hand <br>Made by <br>Mudith D Shetty
 This Computer Vision controlled mechanical arm was built as a semester end project and for a competition called 'Polarizer'. We used the library of OpenCV and Mediapipe to recognize the hand. Rest of the coding is done on python and Arduino.<br>
 Some of the photos are not origanally mine credit to the people for said photos.
 
