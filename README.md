@@ -1,10 +1,10 @@
-# Computer Vision Assisted Robotic Hand
-This Computer Vision controlled mechanical arm was built as a project for a competition called 'Polarizer'. We used the library of OpenCV and Mediapipe to recognize the hand. Rest of the coding is done on python and Arduino.
+# Computer Vision Assisted Robotic Hand By Mudith D Shetty
+This Computer Vision controlled mechanical arm was built as a semester end project and for a competition called 'Polarizer'. We used the library of OpenCV and Mediapipe to recognize the hand. Rest of the coding is done on python and Arduino.<br>
 Some of the photos are not origanally mine credit to the people for said photos.
 
 # A MINI-PROJECT REPORT
 Physics - IV 
-“Computer  Vision Supported Robotic Hand”
+“Computer  Vision Supported Robotic Hand” <br>
 
 # Robotic Hand
 Introduction
@@ -32,13 +32,15 @@ For instance, if a person pulls a massless rope with a force of 20 N, the block 
 Formula:
 T= mg + ma
 We know that the force of tension is calculated using the formula T = mg + ma.
+
 ![image](https://github.com/MudithDShetty/Computer_Vision_Robotic_Hand/assets/128790888/a0aff258-d019-4874-9050-582c1e25ec87)
 
 
  # Semiconductor
 
 Semiconductors are the materials which have a conductivity between conductors  and non-conductors or insulators. Semiconductors can be compounds such as gallium arsenide or pure elements, such as germanium or silicon.
-semiconductor, any of a class of crystalline solids intermediate in electrical conductivity between a conductor and an insulator. Semiconductors are employed in the manufacture of various kinds of electronic devices, including diodes, transistors, and integrated circuits
+semiconductor, any of a class of crystalline solids intermediate in electrical conductivity between a conductor and an insulator. Semiconductors are employed in the manufacture of various kinds of electronic devices, including diodes, transistors, and integrated circuits.
+
 ![image](https://github.com/MudithDShetty/Computer_Vision_Robotic_Hand/assets/128790888/be392f87-c04d-4528-9747-c0fb67ffd629)
 
 
